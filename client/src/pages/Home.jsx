@@ -206,7 +206,7 @@ const HomePage = () => {
               <h3>🤟 HandsOn</h3>
               <p>Empowering communication for everyone.</p>
               <div className="social-links">
-                <a href="#" aria-label="Github">
+                <a href="https://github.com/kanak227/HandsOn.git" aria-label="Github">
                   <Github />
                 </a>
                 <a href="#" aria-label="Twitter">
